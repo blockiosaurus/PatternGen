@@ -1,0 +1,29 @@
+{
+   "name": "Baby Bread Eyes #000",
+   "symbol": "BBYE",
+   "description": "Baby Baguette Eyes.",
+   "seller_fee_basis_points": 500,
+   "image": "https://breadheads.s3.amazonaws.com/babybreads/eyes/mint/##NUM##.png",
+   "raw_image": "https://breadheads.s3.amazonaws.com/babybreads/eyes/##TRAIT##.png",
+   "attributes": [
+      {
+        "trait_type": "Eyes",
+        "value": "##TRAIT##"
+      }
+   ],
+   "properties": {
+      "files": [
+         {
+            "uri": "https://breadheads.s3.amazonaws.com/babybreads/eyes/mint/##NUM##.png",
+            "type": "image/png"
+         }
+      ],
+      "category": "image",
+      "creators": [
+         {
+            "address": "8Ms4owPn6WZP5nUwxqDHPqTsAUMFPoQ8YgSfAhUgEeNP",
+            "share": 100
+         }
+      ]
+   }
+}
